@@ -1,0 +1,2 @@
+# DGVPrivacyPolicy
+DiscGolfValley Privacy Policy
